@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋   [![](https://visitcount.itsvg.in/api?id=momin96&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **momin96/momin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
