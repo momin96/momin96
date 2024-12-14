@@ -1,7 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=momin96&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-## Hi there 👋          
+## Hello 👋 World 🌏
+
+- I am Senior iOS & Flutter developer based out of silicony vally of India (Bangalore).
+- I have been developing Native iOS & Flutter apps since from past 10 years
 
 <!--
 **momin96/momin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
