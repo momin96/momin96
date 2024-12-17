@@ -5,8 +5,9 @@
 
 - I am Senior iOS & Flutter developer based out of silicony vally of India (Bangalore).
 - I have been developing high-quality, user-focused applications in Native iOS & Flutter apps since from past 10 years.
-- I am Aspiring to become a Mobile Architect!
+- My expertise includes in Swift, SwiftUI, Kotlin, Flutter, Dart, Jetpack Compose, KMM, UIKit, Apple development & many more.
 
+<br> 
 
 ## I've written about ✍️
 1. [Content Hugging vs Content Compression Resistance Priority](https://medium.com/@nasirahmedmomin/content-hugging-vs-content-compression-resistance-57d4b5d2d015)  
@@ -16,7 +17,13 @@
 5. [Building Authentication Systems in Swift with the Builder Design Pattern](https://nasirmomin.hashnode.dev/building-authentication-systems-in-swift-with-the-builder-design-pattern)  
 6. [Swift Concurrency: Dispatch Semaphore](https://medium.com/@nasirahmedmomin/swift-concurrency-dispatch-semaphore-d642d64e526e)  
 7. [Linked List Implementation in Swift](https://dev.to/momin96/linked-list-implementation-in-swift-6lc)  
-8. [Quick Introduction of Android Coroutines for iOS Developers](https://nasirmomin.hashnode.dev/quick-introduction-of-android-coroutine-to-ios-developers)  
+8. [Quick Introduction of Android Coroutines for iOS Developers](https://nasirmomin.hashnode.dev/quick-introduction-of-android-coroutine-to-ios-developers)
+9. [Secure Firebase API Keys/Secrets: A Guide to Using xcconfig for Security](https://nasirmomin.hashnode.dev/secure-firebase-api-keyssecrets-a-guide-to-using-xcconfig-for-security)
+
+<br> 
+
+## Connect with me 📫
+
 
 
 
