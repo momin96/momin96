@@ -6,7 +6,6 @@
 - I am Senior iOS & Flutter developer based out of silicony vally of India (Bangalore).
 - I have been developing high-quality, user-focused applications in Native iOS & Flutter apps since from past 10 years.
 - My expertise includes in Swift, SwiftUI, Kotlin, Flutter, Dart, Jetpack Compose, KMM, UIKit, Apple development & many more.
-- You can find me full CV here [![Resume](https://img.shields.io/badge/Resume-Download-2EA44F?logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
 
 
 <br> 
@@ -26,7 +25,7 @@
 
 ## Connect with me 📫
 
- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-555555?logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/4260623/nasir)        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ahmed-momin-21102872)        [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@nasirahmedmomin)        [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://nasirmomin.hashnode.dev/)    [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:momin96@gmail.com)
+ [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-555555?logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/4260623/nasir)        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ahmed-momin-21102872)        [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@nasirahmedmomin)        [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://nasirmomin.hashnode.dev/)    [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:momin96@gmail.com)   [![CV](https://img.shields.io/badge/Resume-Download-2EA44F?logo=adobeacrobatreader&logoColor=white)](https://github.com/momin96/momin96/blob/readme-update/Nasir%20iOS%20%26%20Flutter%20Developer%20Resume.pdf)
 
 
 
