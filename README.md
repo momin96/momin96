@@ -24,7 +24,21 @@
 
 ## Connect with me 📫
 
- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-555555?logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/4260623/nasir)  
+ [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-555555?logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/4260623/nasir)        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ahmed-momin-21102872)        [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@nasirahmedmomin)        [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://nasirmomin.hashnode.dev/)    [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:momin96@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
