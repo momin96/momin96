@@ -6,6 +6,8 @@
 - I am Senior iOS & Flutter developer based out of silicony vally of India (Bangalore).
 - I have been developing high-quality, user-focused applications in Native iOS & Flutter apps since from past 10 years.
 - My expertise includes in Swift, SwiftUI, Kotlin, Flutter, Dart, Jetpack Compose, KMM, UIKit, Apple development & many more.
+- You can find me full CV here [![Resume](https://img.shields.io/badge/Resume-Download-2EA44F?logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+
 
 <br> 
 
