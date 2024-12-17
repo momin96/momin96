@@ -24,6 +24,7 @@
 
 ## Connect with me 📫
 
+ [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-555555?logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/4260623/nasir)  
 
 
 
